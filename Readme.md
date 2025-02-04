@@ -32,3 +32,7 @@ rustc hello.rs
 ```
 
 ![img](./docs/img3.png)
+# Resouces 
+- [Youtube Plays list by Talel Hadj Salem reading the Rust book in arabic](https://youtube.com/playlist?list=PLNpnO_Q_GAdSJYAj4cwViEewEOtnpHDBb&si=Gcd8Rv36deS4h8Ag)
+- [Exercises](https://github.com/rust-lang/rustlings/tree/main/exercises)
+- [Rust documentation](https://doc.rust-lang.org/rust-by-example/index.html)
